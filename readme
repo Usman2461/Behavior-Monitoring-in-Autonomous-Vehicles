@@ -1,3 +1,9 @@
 This repository provide the code for behavior monitoring of autonomous cars.
 
 
+Main Requirements:
+
+torch
+numpy
+scikit-learn
+matplotlib
